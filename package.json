@@ -1,0 +1,25 @@
+{
+  "name": "Wemote_admin",
+  "version": "1.0.0",
+  "description": "Admin site to edit the TV shows, sports and movies database for the Wemote App. ",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.3.5",
+    "serve-static": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/levibostian/Wemote_admin.git"
+  },
+  "author": "Levi Bostian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/levibostian/Wemote_admin/issues"
+  },
+  "homepage": "https://github.com/levibostian/Wemote_admin"
+}
